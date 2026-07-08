@@ -7,3 +7,6 @@ git push origin main <remote-branch-name>
 # switch to a different branch
 git switch <branch-name>
 
+# pip commands
+# freeze the current environment's packages and save them to requirements.txt
+pip freeze > requirements.txt
